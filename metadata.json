@@ -1,0 +1,6 @@
+{
+  "name": "Arrow Break",
+  "description": "Fast-paced arcade archery breakout game with dynamic leaderboards, daily quests & challenges, weapon armory, and rewarded gameplay economy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
